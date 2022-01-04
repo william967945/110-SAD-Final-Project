@@ -1,6 +1,6 @@
 # sad110_project
 
-A new Flutter project.
+Source code are in the /lib directory. Thnaks!
 
 ## Getting Started
 
